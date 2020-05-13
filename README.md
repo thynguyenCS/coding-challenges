@@ -4,9 +4,10 @@
 - List of challenges
   - May challenges from Leetcode: https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
      - Day 1: firstBadVersion.py
+     - Day 2: findJewels.py
      - Day 11: floodFill.py
      - Day 12: singleNonDuplicate.py
-# Find first bad version
+
      
 
     
