@@ -16,6 +16,7 @@
 
    ### June challenges from Leetcode: https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/
    -[Day 7: 0607-change.py](https://github.com/thynguyenCS/coding-challenges/blob/master/leetcode-june/0607-change.py)
+   
    -[Day 8: 0608-power_of_2.py](https://github.com/thynguyenCS/coding-challenges/blob/master/leetcode-june/0608-power_of_2.py)
 
      
