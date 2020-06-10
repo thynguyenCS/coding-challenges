@@ -19,6 +19,8 @@
    
    -[Day 8: 0608-power_of_2.py](https://github.com/thynguyenCS/coding-challenges/blob/master/leetcode-june/0608-power_of_2.py)
 
+   -[Day 9: 0609-isSubsequence.py](https://github.com/thynguyenCS/coding-challenges/blob/master/leetcode-june/0609-isSubsequence.py)
+
      
 
     
