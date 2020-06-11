@@ -23,13 +23,10 @@ Output: 0
 My approach:
 - Checking if target a member of nums => return index using method index(target)
 - Else searching the index to insert using binary search 
+
 """
+# first approach
 def searchInsert(nums, target):
-	"""
-	:type nums: List[int]
-	:type target: int
-	:rtype: int
-	"""
 	if target in nums:
 		return nums.index(target)
 	else:
@@ -46,7 +43,6 @@ def binary_search(arr, elem):
 		elif elem > arr[mid]:
 			start = mid + 1
 	return start
-
 
 
 def main():
