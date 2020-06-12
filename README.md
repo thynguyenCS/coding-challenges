@@ -24,6 +24,8 @@
    -[Day 10: 0610-searchInsert.py](https://github.com/thynguyenCS/coding-challenges/blob/master/leetcode-june/0610-searchInsert.py)
 
    -[Day 11: 0611-sortColors.py](https://github.com/thynguyenCS/coding-challenges/blob/master/leetcode-june/0611-sortColors.py)
+
+   -[Day 12: 0612-randomizedSet.py](https://github.com/thynguyenCS/coding-challenges/blob/master/leetcode-june/0612-randomizedSet.py)
    
 
 
