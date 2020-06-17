@@ -26,6 +26,14 @@
    -[Day 11: 0611-sortColors.py](https://github.com/thynguyenCS/coding-challenges/blob/master/leetcode-june/0611-sortColors.py)
 
    -[Day 12: 0612-randomizedSet.py](https://github.com/thynguyenCS/coding-challenges/blob/master/leetcode-june/0612-randomizedSet.py)
+
+   -[Day 13: 0613-largestDivisibleSubset.py](https://github.com/thynguyenCS/coding-challenges/blob/master/leetcode-june/0613-largestDivisibleSubset.py)
+
+   - Day 14: unsolved
+
+   -[Day 15: 0615-searchBST.py](https://github.com/thynguyenCS/coding-challenges/blob/master/leetcode-june/0615-searchBST.py)
+
+   -[Day 16: 0616-validIPAddress.py](https://github.com/thynguyenCS/coding-challenges/blob/master/leetcode-june/0616-validIPAddress.py)
    
 
 
